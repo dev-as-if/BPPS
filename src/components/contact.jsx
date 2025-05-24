@@ -128,9 +128,9 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2025 APMI INDIA. Design by{" ASIF ALAM"}
+            &copy; 2025 Book & Pen Public School. Design by{""}
             <a href="https://code-asif.github.io/MyPortfolio/" rel="nofollow">
-              &nbsp; The Code Asif
+              &nbsp; Asif Alam
             </a>
           </p>
         </div>

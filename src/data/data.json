@@ -1,7 +1,7 @@
 {
   "Header": {
-    "title": "Avicenna Paramedical & Management Institute",
-    "paragraph": "Best Paramedical Institute which provides the best education in the field of Paramedical and Health Care. Where you can learn and grow your career in the field of Paramedical and Health Care."
+    "title": "Book & Pen Public School",
+    "paragraph": "Book & Pen Public School is a premier educational institution dedicated to providing quality education and fostering holistic development in students. Our mission is to create a nurturing environment that encourages academic excellence, character building, and social responsibility."
   },
   "About": {
     "paragraph": "The purpose of the college is to provide high-quality education and training in the field of Paramedical and Health Care, preparing students for successful careers in this vital industry.",
@@ -85,6 +85,21 @@
       "title": "Campus & Training",
       "largeImage": "img/portfolio/13-large.jpg",
       "smallImage": "img/portfolio/13-small.jpg"
+    },
+    {
+      "title": "Campus & Training",
+      "largeImage": "img/portfolio/14-large.jpg",
+      "smallImage": "img/portfolio/14-small.jpg"
+    },
+    {
+      "title": "Campus & Training",
+      "largeImage": "img/portfolio/15-large.jpg",
+      "smallImage": "img/portfolio/15-small.jpg"
+    },
+    {
+      "title": "Campus & Training",
+      "largeImage": "img/portfolio/16-large.jpg",
+      "smallImage": "img/portfolio/16-small.jpg"
     }
   ],
   "Placement": [
@@ -232,7 +247,9 @@
     }
   ],
   "homepage":{
-    "url": "https://code-asif.github.io/APMI/"
+    "url": "https://code-asif.github.io/APMI/",
+    "url2": "https://www.apmiindia.com",
+    "url3": "https://dev-as-if.github.io/BPPS/"
   }
 }
 
