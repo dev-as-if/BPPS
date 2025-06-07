@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Header = (props) => {
+const Header = (props) => {
   return (
     <header id="header">
       <div className="intro">
@@ -8,8 +8,8 @@ export const Header = (props) => {
           <div className="container">
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
-                <h2>
-                  {props.data ? props.data.title : "Loading"}
+                <h2 style={{ color: "white" }}>
+                  {props.data ? props.data.title : " "}
                   <span></span>
                 </h2>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
@@ -21,3 +21,5 @@ export const Header = (props) => {
     </header>
   );
 };
+
+export default Header;

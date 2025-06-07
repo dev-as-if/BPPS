@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Training = (props) => {
+const Training = (props) => {
   return (
     <div id="training">
       <div className="container">
@@ -35,3 +35,5 @@ export const Training = (props) => {
     </div>
   );
 };
+
+export default Training;

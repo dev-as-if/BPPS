@@ -83,6 +83,41 @@ hr {
   border: 0;
 }
 
+/* Navbar -- Blackbox AI */
+
+.intro-text h2 {
+  font-size: 2.5rem; /* Adjust size as needed */
+  color: #333; /* Change to your preferred color */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.navbar {
+  background-color: #007bff; /* Bootstrap primary color */
+}
+
+.navbar-nav > li > a {
+  color: rgb(11, 11, 11); /* Change link color */
+}
+
+.navbar-nav > li > a:hover {
+  background-color: #0056b3; /* Darker shade on hover */
+}
+
+.dropdown-menu {
+  background-color: #f8f9fa; /* Light background for dropdown */
+  color: black;
+}
+
+.dropdown-menu > li > a {
+  color: #080808; /* Dropdown link color */
+}
+
+/* After hover li should expand */
+.dropdown-menu > li > a:hover {
+  background-color: #e2e6ea; /* Hover effect for dropdown */
+}
+
+
 /* Navigation */
 #menu {
   padding: 15px;
@@ -97,7 +132,7 @@ hr {
 
 #menu a.navbar-brand {
   font-family: "Poppins", sans-serif;
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 700;
   color: #ffffff;
   text-transform: uppercase;
@@ -109,10 +144,10 @@ hr {
   color: #0b0b0b;
   font-size: 14px;
   font-weight: 400;
-  padding: 10px 5px;
-  margin: 10px 15px 0;
+  padding: 5px 5px;
+  margin: 15px 10px 0;
   position: relative;
-  border-radius: 20%;
+  border-radius: 15%;
 }
 
 #menu.navbar-default .navbar-nav > li > a:after {
@@ -190,7 +225,7 @@ hr {
   width: 100%;
   padding: 0;
   background: url(../img/intro-bg.jpg) center center no-repeat;
-  background-color: #1b1f27;
+  background-color: #dde0e6;
   background-size: cover;
 }
 

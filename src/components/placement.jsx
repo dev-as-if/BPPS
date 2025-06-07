@@ -2,7 +2,7 @@ import React from "react";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
-export const Placement = ({ data }) => {
+const Placement = ({ data }) => {
   if (!data || !Array.isArray(data)) return null; // Add this defensive check
 
   return (
@@ -33,3 +33,5 @@ export const Placement = ({ data }) => {
     </div>
   );
 };
+
+export default Placement;

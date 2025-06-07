@@ -7,7 +7,7 @@ const initialState = {
   email: "",
   message: "",
 };
-export const Contact = (props) => {
+const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState);
 
   const handleChange = (e) => {
@@ -138,3 +138,5 @@ export const Contact = (props) => {
     </div>
   );
 };
+
+export default Contact;
