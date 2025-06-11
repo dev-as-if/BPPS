@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import Header from "../components/header";
 import Contact from "../components/contact";
 import JsonData from "../data/data.json";
+// import Navigation from "../components/navigation";
 
 const texts = ["Book & Pen Public School", "From Pen to Progress"];
 
@@ -57,6 +58,7 @@ const Home = () => {
 
   return (
     <div>
+      {/* <Navigation /> */}
       {/* === Fullscreen Carousel Section === */}
       <div className="carousel-container">
         <div
