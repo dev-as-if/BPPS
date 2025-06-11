@@ -1,18 +1,18 @@
-import React, { useEffect } from "react";
+// import React, { useEffect } from "react";
 import Logo from "../assets/BPPS.jpg";
-import { useNavigate } from "react-router-dom";
+// import { useNavigate } from "react-router-dom";
 
 const Splash = () => {
-    const navigate = useNavigate();
+    // const navigate = useNavigate();
 
-    useEffect(() => {
-        const timer = setTimeout(() => {
-            navigate("/");
-        }, 3000);
+    // useEffect(() => {
+    //     const timer = setTimeout(() => {
+    //         navigate("/");
+    //     }, 3000);
 
-        return () => clearTimeout(timer);
-    }, [navigate]);
-    
+    //     return () => clearTimeout(timer);
+    // }, [navigate]);
+
     return (
         <div className="d-flex flex-column justify-content-center align-items-center vh-100 bg-white">
             <img src={Logo} alt="BPPS Logo" height="100" className="mb-3" />
