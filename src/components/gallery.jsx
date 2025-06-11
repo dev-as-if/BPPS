@@ -21,8 +21,8 @@ const Gallery = (props) => {
                   >
                     <Image
                       title={d.title}
-                      largeImage={d.largeImage}
-                      smallImage={d.largeImage}
+                      largeImage={`${process.env.PUBLIC_URL}/${d.largeImage}`}
+                      smallImage={`${process.env.PUBLIC_URL}/${d.largeImage}`}
                     />
                   </div>
                 ))
