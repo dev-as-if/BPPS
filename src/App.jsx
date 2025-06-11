@@ -30,7 +30,7 @@ const App = () => {
   return (
     <Router>
       <Navigation />
-      <Home/>
+      {/* <Home/> */}
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About data={landingPageData.About} />} />
