@@ -52,7 +52,7 @@ const Home = () => {
 
   return (
     <div>
-      <Navigation />
+      {/* <Navigation /> */}
       <div className="carousel-container">
         <div
           id="schoolCarousel"
