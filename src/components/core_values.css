@@ -1,10 +1,10 @@
-.about-section {
+.core-values-section {
   padding: 4rem 0;
   position: relative;
-  background-color: #f8f9fa;
+  background-color: #6d36e3;
 }
 
-.about-section .overlay {
+.core-values-overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -14,38 +14,38 @@
   z-index: 1;
 }
 
-.about-section .content {
+.core-values-content {
   position: relative;
   z-index: 2;
 }
 
-.section-heading {
+.core-values-heading {
   font-size: 2.3rem;
   font-weight: 600;
-  color: #007bff;
+  color: #f6f6f7;
   text-transform: uppercase;
 }
 
-.section-title {
+.core-values-title {
   font-size: 2.2rem;
   font-weight: 700;
   margin-bottom: 2rem;
 }
 
-.custom-list {
+.core-values-list {
   padding-left: 5.5rem;
   list-style-type: square;
   margin-bottom: 1.5rem;
 }
 
-.custom-list li {
+.core-values-list li {
   font-size: 1.3rem;
   margin-bottom: 0.75rem;
   color: #fdfafa;
   line-height: 1.8;
 }
 
-.highlight-text {
+.core-values-highlight {
   font-size: 1.4rem;
   color: #000;
   text-align: justify;

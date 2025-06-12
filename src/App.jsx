@@ -91,6 +91,9 @@ import Assessment from "./components/assessment";
 import Facilities from "./components/facilities";
 import Activities from "./components/activities";
 import JsonData from "./data/data.json";
+import Admissions from "./components/admission";
+import Career from "./components/career";
+import Donation from "./components/donate_us";
 
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
@@ -114,14 +117,26 @@ const App = () => {
           <Route path="/mission" element={<Mission data={landingPageData.Mission} />} />
           <Route path="/vision" element={<Vision data={landingPageData.Vision} />} />
           <Route path="/core-values" element={<CoreValues data={landingPageData.Mission} />} />
+
           <Route path="/curriculum" element={<Curriculum data={landingPageData.Curriculum} />} />
           <Route path="/methodology" element={<Methodology data={landingPageData.Methodology} />} />
           <Route path="/assessment" element={<Assessment data={landingPageData.Assessment} />} />
+
           <Route path="/facilities" element={<Facilities data={landingPageData.Facilities} />} />
+
           <Route path="/activities" element={<Activities data={landingPageData.Activities} />} />
+
+          <Route path="/admissions" element={<Admissions data={landingPageData.Admissions} />} />
+
+          <Route path="/portfolio" element={<Gallery data={landingPageData.Gallery} />} />
+
+          <Route path="/careers" element={<Career data={landingPageData.Career} />} />
+
+          <Route path="/donate" element={<Donation />} />
+
+
           <Route path="/features" element={<Features data={landingPageData.Features} />} />
           <Route path="/services" element={<Services data={landingPageData.Services} />} />
-          <Route path="/portfolio" element={<Gallery data={landingPageData.Gallery} />} />
           <Route path="/team" element={<Team data={landingPageData.Team} />} />
           <Route path="/testimonials" element={<Testimonials data={landingPageData.Testimonials} />} />
           <Route path="/placement" element={<Placement data={landingPageData.Placement} />} />

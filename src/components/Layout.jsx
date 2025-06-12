@@ -6,7 +6,7 @@ import { Outlet } from "react-router-dom";
 const Layout = () => (
   <>
     <Navigation />
-    <div style={{ marginTop: "0.1rem" }}>
+    <div>
       <Outlet />
     </div>
   </>

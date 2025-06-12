@@ -463,6 +463,260 @@
       "largeImage": "img/portfolio/40-large.jpg"
     }
   ],
+  "AdmissionDetails": {
+    "title": "Admissions",
+    "subtitle": "Committed to Inclusive Education",
+    "intro": "Book & Pen Public School is committed to inclusive education. We offer full and partial fee waivers for students from economically weaker backgrounds, especially from minority communities. Our goal is to ensure that financial constraints do not hinder any child’s right to quality education.",
+    "sections": [
+      {
+        "heading": "Admission Criteria for Poor and Partially Paying Students",
+        "points": [
+          {
+            "title": "Eligibility Documentation",
+            "details": [
+              "Proof of family income (such as income certificate issued by a government authority).",
+              "BPL (Below Poverty Line) card or ration card, if applicable.",
+              "Address proof and student’s birth certificate."
+            ]
+          },
+          {
+            "title": "Academic Requirements",
+            "details": [
+              "For entry-level classes (Nursery to Class I): No prior academic requirements; age as per norms (e.g., 6 years for Class I as of July 31).",
+              "For higher classes: Submission of previous class report card and bonafide certificate."
+            ]
+          },
+          {
+            "title": "Admission Process",
+            "details": [
+              "Fill out the admission/registration form (offline only).",
+              "Attach all required documents.",
+              "Interaction or basic assessment if needed.",
+              "Meeting with parents to assess need and verify documents.",
+              "Shortlisting based on merit, need, and seat availability."
+            ]
+          },
+          {
+            "title": "Fee Waiver/Concession Policy",
+            "details": [
+              "Full-fee waiver for students from extremely poor backgrounds (as verified and approved by BPPS Management).",
+              "Partial fee concession for families with limited financial capacity.",
+              "Flexible payment plans for eligible families.",
+              "Scholarships based on academic performance or special cases."
+            ]
+          },
+          {
+            "title": "Reservation and Priority",
+            "details": [
+              "Priority for children from minority and economically weaker sections.",
+              "Reserved seats as per school policy."
+            ]
+          },
+          {
+            "title": "Note",
+            "details": [
+              "Selection and fees waiver are fully decided by BPPS Management.",
+              "Forms are only available physically at BPPS campus."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Admission Categories",
+        "points": [
+          {
+            "title": "Full Scholarship (100%)",
+            "details": [
+              "For underprivileged students who cannot afford any fees.",
+              "Requires strong documentation and possible academic or social merit."
+            ]
+          },
+          {
+            "title": "Partial Scholarship (25%-50%)",
+            "details": [
+              "For low-income families who can contribute partially.",
+              "May be awarded based on merit or special skills."
+            ]
+          },
+          {
+            "title": "Full Fees Admission",
+            "details": [
+              "Open to all eligible students who can pay full tuition fees.",
+              "Entrance test may be conducted for grade placement."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Admission Process",
+        "points": [
+          {
+            "title": "Step 1: Application Submission",
+            "details": [
+              "Collect admission form (offline).",
+              "Submit required documents as per category."
+            ]
+          },
+          {
+            "title": "Step 2: Screening & Verification",
+            "details": [
+              "Financial check for scholarship applicants.",
+              "Eligibility check for fee-paying applicants."
+            ]
+          },
+          {
+            "title": "Step 3: Entrance Test / Interview",
+            "details": [
+              "Assessment conducted if required for class placement or merit-based admission."
+            ]
+          },
+          {
+            "title": "Step 4: Selection & Approval",
+            "details": [
+              "Final list published.",
+              "Scholarship reviewed by committee."
+            ]
+          },
+          {
+            "title": "Step 5: Admission Confirmation",
+            "details": [
+              "Sponsorship confirmation (for scholarship).",
+              "Fee payment (for others)."
+            ]
+          },
+          {
+            "title": "Step 6: Orientation & Enrollment",
+            "details": [
+              "Orientation program conducted.",
+              "Classroom and materials assigned."
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Additional Considerations",
+        "points": [
+          {
+            "title": "Annual Review for Scholarship Students",
+            "details": [
+              "Performance and attendance reviewed annually."
+            ]
+          },
+          {
+            "title": "Quota Management",
+            "details": [
+              "Transparent tracking of full, partial, and paid admissions."
+            ]
+          },
+          {
+            "title": "Community & Donor Engagement",
+            "details": [
+              "Partner with organizations to sustain scholarships."
+            ]
+          }
+        ]
+      }
+    ],
+    "closingQuote": "We believe no child should be left behind due to financial barriers — education is a right, not a privilege."
+  },
+  "CareerDetails": {
+    "title": "Career Opportunities at Book & Pen Public School",
+    "intro": "At Book & Pen Public School, we believe that our teachers and staff are the foundation of our success. We are always looking for dedicated, qualified, and passionate professionals to join our vibrant team and contribute to the holistic development of our students.",
+    "sections": [
+      {
+        "heading": "Openings",
+        "description": "Interested candidates may send their applications any time of the year. However, candidates will be contacted depending upon the openings.",
+        "subsections": [
+          {
+            "title": "Teaching Positions",
+            "items": [
+              "Pre-Primary Teachers (Nursery, LKG, UKG)",
+              "Primary Teachers (All Subjects)",
+              "TGT/PGT Teachers (English, Hindi, Urdu, Mathematics, Science, Social Studies, Islamic Studies, Computer Science)",
+              "Language Teachers (Urdu, Arabic)",
+              "Physical Education Teacher",
+              "Art & Craft Teacher",
+              "Music & Dance Teacher"
+            ]
+          },
+          {
+            "title": "Non-Teaching Positions",
+            "items": [
+              "Librarian",
+              "Lab Assistant (Science/Computer)",
+              "Office Assistant/Clerk",
+              "Receptionist",
+              "School Nurse/Medical Attendant",
+              "Bus Driver & Attendant",
+              "Security Personnel"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "General Requirements",
+        "subsections": [
+          {
+            "title": "Educational Qualifications",
+            "items": [
+              "As per CBSE/State Board norms for the respective posts (e.g., B.Ed./D.El.Ed./M.A./M.Sc./B.Lib/Relevant Diploma)."
+            ]
+          },
+          {
+            "title": "Experience",
+            "items": [
+              "Prior teaching or relevant work experience is preferred.",
+              "Freshers with strong subject knowledge and passion for teaching may also apply."
+            ]
+          },
+          {
+            "title": "Language Proficiency",
+            "items": [
+              "Good command over English and/or Urdu.",
+              "Additional language skills (Hindi, Arabic) are an advantage."
+            ]
+          },
+          {
+            "title": "Skills",
+            "items": [
+              "Effective communication",
+              "Classroom management",
+              "Creativity",
+              "Teamwork",
+              "Commitment to student welfare"
+            ]
+          },
+          {
+            "title": "For Islamic Studies Teachers",
+            "items": [
+              "Adequate qualification in Islamic Studies",
+              "Proficiency in Urdu/Arabic",
+              "Experience in teaching Islamic subjects"
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "How to Apply",
+        "description": "Interested candidates may submit their updated resume/CV along with a cover letter to:",
+        "contacts": {
+          "email": "enquiry@booknpen.com",
+          "address": "Book & Pen Public School, Meerdeh Toli, Nawada, Bihar.",
+          "note": "Please mention the position applied for in the subject line of your email."
+        }
+      },
+      {
+        "heading": "Why Join Us?",
+        "items": [
+          "Supportive and inclusive work environment",
+          "Opportunities for professional growth and training",
+          "Competitive salary and benefits",
+          "Focus on holistic education and values"
+        ]
+      }
+    ],
+    "closingNote": "“Book & Pen Public School is an equal opportunity employer. We encourage applications from candidates of all backgrounds, including minorities and women.”"
+  },
   "Placement": [
     {
       "img": "img/placements/01-cam.jpg"
@@ -562,8 +816,8 @@
   ],
   "Contact": {
     "address": "Meerdeh toli, Landmark - Alia mansion, At & PO Nawadah, Pin - 805110",
-    "phone": "+91 7485060789",
-    "email": "support@apmiindia.com",
+    "phone": "+91 7320050572",
+    "email": "support@bpps.com",
     "facebook": "fb.com"
   },
   "Features": [
