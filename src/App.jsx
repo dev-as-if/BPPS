@@ -103,6 +103,7 @@ const App = () => {
   return (
     <Router>
       {/* <Navigation /> */}
+      <Home />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/home" element={<Home />} />
