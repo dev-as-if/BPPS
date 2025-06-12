@@ -68,7 +68,8 @@
 // export default App;
 
 import React, { useEffect, useState } from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+// import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Splash from "./components/Splash";
 import Layout from "./components/Layout";
 import Home from "./pages/home";
