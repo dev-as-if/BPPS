@@ -64,7 +64,7 @@
 
 import React, { useEffect, useState } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Navigation from "./components/navigation";
+// import Navigation from "./components/navigation";
 import Splash from "./components/Splash";
 import Home from "./pages/home";
 import About from "./components/about";
@@ -102,10 +102,9 @@ const App = () => {
 
   return (
     <Router>
-      <Navigation />
+      {/* <Navigation /> */}
       <Routes>
         <Route path="/" element={<Home />} />
-        
         <Route path="/home" element={<Home />} />
         <Route path="/about" element={<About data={landingPageData.About} />} />
         <Route path="/mission" element={<Mission data={landingPageData.Mission} />} />
