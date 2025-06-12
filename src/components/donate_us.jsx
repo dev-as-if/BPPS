@@ -19,11 +19,13 @@ const Donation = () => {
         <div className="bank-section">
           <h3>Bank Transfer Details</h3>
           <ul>
-            <li><strong>Account Name:</strong> Book & Pen Public School</li>
-            <li><strong>Bank Name:</strong> State Bank of India</li>
-            <li><strong>Account Number:</strong> xxxxxxxxxxxxx</li>
-            <li><strong>IFSC Code:</strong> xxxxxxxxxxx</li>
+            <li><strong>Account Name:</strong> Book and Pen Mission Educate foundation</li>
+            <li><strong>Bank Name:</strong> Canara Bank</li>
+            <li><strong>Account Number:</strong> 120002592841</li>
+            <li><strong>IFSC Code:</strong> CNRB0003290</li>
             <li><strong>Branch:</strong> Nawada, Bihar</li>
+            <br /><br /><br /><br /><br />
+            <li><strong>Note:</strong> Please send the donation using Indian Bank Only</li>
           </ul>
         </div>
       </div>

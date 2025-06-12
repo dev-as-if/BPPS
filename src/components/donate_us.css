@@ -4,7 +4,8 @@
   padding: 2rem 1rem;
   font-family: 'Segoe UI', sans-serif;
   color: #333;
-  background-color: #fdfdfd;
+  background-color: #f1dbdb;
+  border-radius: 5%;
 }
 
 .donation-header {
@@ -12,12 +13,12 @@
 }
 
 .donation-header h1 {
-  font-size: 2.5rem;
+  font-size: 2.8rem;
   color: #007bff;
 }
 
 .donation-header p {
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   color: #555;
   max-width: 700px;
   margin: 0 auto;
@@ -50,7 +51,7 @@
 }
 
 .upi-id {
-  font-size: 1rem;
+  font-size: 1.4rem;
   color: #444;
 }
 
@@ -69,7 +70,7 @@
 
 .bank-section li {
   margin-bottom: 0.5rem;
-  font-size: 1rem;
+  font-size: 1.4rem;
   color: #333;
 }
 
