@@ -6,7 +6,7 @@ const Navigation = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-default" id="menu">
       <div className="container">
-        <Link className="navbar-brand d-flex align-items-center" to="/">
+        <Link className="navbar-brand d-flex align-items-center" to="/home">
           <img src={Logo} alt="BPPS Logo" height="60" className="me-2" />
           <div>
             Book & Pen <br /> Public School

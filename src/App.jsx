@@ -105,6 +105,8 @@ const App = () => {
       <Navigation />
       <Routes>
         <Route path="/" element={<Home />} />
+        
+        <Route path="/home" element={<Home />} />
         <Route path="/about" element={<About data={landingPageData.About} />} />
         <Route path="/mission" element={<Mission data={landingPageData.Mission} />} />
         <Route path="/vision" element={<Vision data={landingPageData.Vision} />} />
