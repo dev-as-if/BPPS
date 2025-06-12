@@ -29,7 +29,7 @@ const Curriculum = () => {
   return (
     <section className="curriculum-section py-5">
       <div className="container text-center">
-        <h4 className="section-heading">Our Curriculum</h4>
+        <h4 className="section-heading text-black">Our Curriculum</h4>
         <h2 className="section-title">{curriculum.title}</h2>
         <p className="intro-text mb-5">{curriculum.intro}</p>
 

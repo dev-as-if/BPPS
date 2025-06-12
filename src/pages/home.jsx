@@ -92,7 +92,7 @@ const Home = () => {
         </div>
 
         <div className="typewriter-container">
-          <h2 className="typewriter-text" aria-label={texts[indexRef.current]}> </h2>
+          <h2 className="typewriter-text text-white" aria-label={texts[indexRef.current]}> </h2>
         </div>
       </div>
 

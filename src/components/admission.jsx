@@ -17,7 +17,7 @@ const Admissions = () => {
       {/* Admission Sections */}
       {sections.map((section, index) => (
         <div key={index} className="admissions-section">
-          <h3 className="section-heading">{section.heading}</h3>
+          <h3 className="section-heading text-black">{section.heading}</h3>
 
           {section.points.map((point, idx) => (
             <div key={idx} className="admissions-point">

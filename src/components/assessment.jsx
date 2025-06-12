@@ -9,7 +9,7 @@ const Assessment = () => {
     <section className="assessment-section">
       <div className="container py-5">
         <div className="text-center mb-5">
-          <h4 className="section-heading text-uppercase">Assessment</h4>
+          <h4 className="section-heading text-uppercase text-black">Assessment</h4>
           <h2 className="section-title text-white">Our Approach to Student Evaluation</h2>
           <p className="section-intro">{intro}</p>
         </div>

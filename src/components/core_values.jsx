@@ -51,8 +51,8 @@ const CoreValues = () => {
     <section id="core-values" className="core-values-section">
       <div className="core-values-overlay"></div>
       <div className="container core-values-content">
-        <h4 className="core-values-heading text-center">{data.heading}</h4>
-        <h2 className="core-values-title text-center">{data.title}</h2>
+        <h4 className="core-values-heading text-center text-black">{data.heading}</h4>
+        <h2 className="core-values-title text-center text-white">{data.title}</h2>
 
         <div className="row justify-content-center">
           <div className="col-md-10 offset-md-1">

@@ -13,7 +13,7 @@ const Donation = () => {
       <div className="donation-box">
         <div className="qr-section">
           <img src={qrImage} alt="Scan to Donate QR" className="qr-image" />
-          <p className="upi-id"><strong>UPI ID:</strong> booknpen@upi</p>
+          {/* <p className="upi-id"><strong>UPI ID:</strong> booknpen@upi</p> */}
         </div>
 
         <div className="bank-section">
@@ -24,8 +24,11 @@ const Donation = () => {
             <li><strong>Account Number:</strong> 120002592841</li>
             <li><strong>IFSC Code:</strong> CNRB0003290</li>
             <li><strong>Branch:</strong> Nawada, Bihar</li>
-            <br /><br /><br /><br /><br />
-            <li><strong>Note:</strong> Please send the donation using Indian Bank Only</li>
+            <br /><br /><br /><br />
+            <div className="note">
+              <li className="text-black"><strong>Note:</strong> Please send the donation using Indian registered bank only</li>
+            </div>
+            
           </ul>
         </div>
       </div>

@@ -8,7 +8,7 @@ const Mission = () => {
     <section id="about" className="about-section">
       <div className="overlay"></div>
       <div className="container text-center content">
-        <h4 className="section-heading">{mission.heading}</h4>
+        <h4 className="section-heading  text-black">{mission.heading}</h4>
         <h2 className="section-title">{mission.title}</h2>
         {mission.paragraphs.map((para, i) => (
           <p key={i} className="about-paragraph">

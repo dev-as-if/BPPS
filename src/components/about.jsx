@@ -9,7 +9,7 @@ const About = () => {
     <section id="about" className="about-section">
       <div className="overlay"></div>
       <div className="container text-center content">
-        <h4 className="section-heading">{about.heading}</h4>
+        <h4 className="section-heading text-black">{about.heading}</h4>
         <h2 className="section-title">{about.title}</h2>
         {about.paragraphs.map((para, i) => (
           <p key={i} className="about-paragraph">
