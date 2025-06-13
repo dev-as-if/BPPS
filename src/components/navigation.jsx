@@ -67,8 +67,8 @@ const Navigation = () => {
             <li className="nav-item"><Link className="nav-link" to="/admissions">Admissions</Link></li>
             <li className="nav-item"><Link className="nav-link" to="/careers">Careers</Link></li>
             <li className="nav-item"><Link className="nav-link" to="/portfolio">Gallery</Link></li>
-            <li className="nav-item"><Link className="nav-link" to="/donate">Donate Us</Link></li>
-            <li className="erp nav-item"><Link className="nav-link" to="/donate">ERP</Link></li>
+            <li className="nav-item"><Link className="nav-link" to="/erp">ERP</Link></li>
+            <li className="donate nav-item"><Link className="nav-link" to="/donate">Donate Us</Link></li>
           </ul>
         </div>
       </div>

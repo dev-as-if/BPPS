@@ -1,5 +1,6 @@
 import React from "react";
 import "../components/erp.css"; // Import the CSS file for styling
+import Logo from "../assets/under-developement.gif"
 
 const Erp = () => {
   return (
@@ -8,7 +9,7 @@ const Erp = () => {
         <h1 className="erp-title">ERP System</h1>
         <p className="erp-message">This section is currently under development.</p>
         <img
-          src={`${process.env.PUBLIC_URL}/assets/under-development.gif`}
+          src={Logo}
           alt="Under Development"
           className="erp-gif"
         />

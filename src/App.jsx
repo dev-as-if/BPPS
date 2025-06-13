@@ -94,6 +94,7 @@ import JsonData from "./data/data.json";
 import Admissions from "./components/admission";
 import Career from "./components/career";
 import Donation from "./components/donate_us";
+import Erp from "./components/erp";
 
 const App = () => {
   const [landingPageData, setLandingPageData] = useState({});
@@ -133,6 +134,8 @@ const App = () => {
           <Route path="/careers" element={<Career data={landingPageData.Career} />} />
 
           <Route path="/donate" element={<Donation />} />
+
+          <Route path="/erp" element={<Erp />} />
 
 
           <Route path="/features" element={<Features data={landingPageData.Features} />} />
