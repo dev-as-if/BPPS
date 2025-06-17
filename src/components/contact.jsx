@@ -128,7 +128,7 @@ const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2025 Book & Pen Public School. Design by{""}
+            &copy; 2025 Book & Pen Public School. Design & Developed by{""}
             <a href="https://code-asif.github.io/MyPortfolio/" rel="nofollow">
               &nbsp; Asif Alam
             </a>

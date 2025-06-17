@@ -79,26 +79,26 @@
 }
 
 .donation-thankyou h4 {
-  font-size: 1.5rem;
+  font-size: 1.7rem;
   color: #28a745;
   margin-bottom: 0.5rem;
 }
 
 .donation-thankyou p {
-  font-size: 1rem;
+  font-size: 1.2rem;
   color: #555;
 }
 
 .secure-note {
   margin-top: 0.8rem;
   font-style: italic;
-  color: #999;
+  color: #070707;
 }
 
 .donation-contact {
   margin-top: 2rem;
   font-size: 1rem;
-  color: #555;
+  color: #0f0f0f;
 }
 
 .note{

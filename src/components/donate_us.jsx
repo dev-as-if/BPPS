@@ -40,8 +40,8 @@ const Donation = () => {
       </div>
 
       <div className="donation-contact text-center">
-        <p>Need help or want to share your donation receipt?</p>
-        <p>Email us at: <strong>enquiry@booknpen.com</strong></p>
+        <p className="text-black">Need help or want to share your donation receipt?</p>
+        <p className="text-black">Email us at: <strong>enquiry@booknpen.com</strong></p>
       </div>
     </div>
   );
