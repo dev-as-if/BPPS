@@ -1,6 +1,6 @@
 {
   "name": "bpps",
-  "homepage": "https://dev-as-if.github.io/BPPS/",
+  "homepage": "https://www.booknpen.in",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
